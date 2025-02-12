@@ -1,2 +1,2 @@
 # StackDiario
-Um blog
+Um blog Stack Diário
