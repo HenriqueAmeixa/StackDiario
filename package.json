@@ -1,7 +1,7 @@
 {
   "name": "stackdiario",
   "version": "1.0.0",
-  "description": "",
+  "description": "Um blog Stack Diário\r morreu 1 vez",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
